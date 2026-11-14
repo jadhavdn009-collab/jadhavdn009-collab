@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dnyandeep Jadhav 👋
 
-<!--
-**jadhavdn009-collab/jadhavdn009-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year B.Sc. Computer Science Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am interested in Data Analytics and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Sc. Computer Science (2027)
+- 📊 Learning Data Analytics
+- 🐍 Learning Python
+- 🗄️ Learning SQL and Excel
+- 💻 Building practical projects
+
+### Technical Skills
+- Python
+- SQL
+- MS Excel (Basic)
+- HTML
+- CSS
+- Flask
+- MySQL
+
+### Projects
+**Online Flight Booking System**
+- Developed using Python, Flask and MySQL.
+
+### Career Goal
+To improve my technical skills and grow as a Data Analyst.
+
+Thanks for visiting my profile!
